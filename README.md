@@ -22,7 +22,7 @@ This project analyzes an A/B experiment to measure conversion performance betwee
 - KPI cards
 - Clean professional layout
 
-## ## 📄 Dashboard Reports (PDF)
+## 📄 Dashboard Reports (PDF)
 - [A/B Testing Dashboard (PDF)](report/A_B testing and experiment.pdf)
 
 ## 🚀 Outcome
