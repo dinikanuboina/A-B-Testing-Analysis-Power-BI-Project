@@ -23,7 +23,7 @@ This project analyzes an A/B experiment to measure conversion performance betwee
 - Clean professional layout
 
 ## 📄 Dashboard Reports (PDF)
-- [A/B Testing Dashboard (PDF)](report/A_B testing and experiment.pdf)
+- [A/B Testing Dashboard (PDF)](reports/A_B testing and experiment.pdf)
 
 ## 🚀 Outcome
 No statistically significant difference observed at 95% confidence level.
