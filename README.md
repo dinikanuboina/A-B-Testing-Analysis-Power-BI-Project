@@ -22,11 +22,11 @@ This project analyzes an A/B experiment to measure conversion performance betwee
 - KPI cards
 - Clean professional layout
 
-## 📂 File
-- `testing AB EXPERIMENT.pbix`
+## ## 📄 Dashboard Reports (PDF)
+- [A/B Testing Dashboard (PDF)](reports/A_B testing and experiment.pdf)
 
 ## 🚀 Outcome
 No statistically significant difference observed at 95% confidence level.
 
---- Kanuboina Dinesh  
+ Kanuboina Dinesh  
 Aspiring Data Analyst / Data Scientist
